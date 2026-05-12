@@ -1,5 +1,10 @@
 # LabThreadsAsyncTask
 
+
+
+https://github.com/user-attachments/assets/1921e00a-0798-4478-b90c-46b2204acb20
+
+
 ## Objectif
 
 Le but de ce laboratoire est de comprendre la différence entre le UI Thread et le Worker Thread dans une application Android.
